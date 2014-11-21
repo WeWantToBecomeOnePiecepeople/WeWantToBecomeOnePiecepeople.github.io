@@ -16,7 +16,7 @@ tagline: '我来了！'
 {% endfor %}
 
 
-##Here's 岁月's精华.
+##Here's list
 
 <ul class="posts">
 {% for post in site.posts %}

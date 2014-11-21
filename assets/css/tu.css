@@ -75,7 +75,7 @@
         display: list-item;
             text-align: -webkit-match-parent;
 }
-.post-content img{
-     width:50%;
+.post-content p img{
+         width:50%;
          height:50%;
 }
