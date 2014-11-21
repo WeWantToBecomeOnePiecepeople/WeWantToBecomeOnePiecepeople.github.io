@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 攻城狮's House
-tagline: 我们都是要成为海贼王的攻城狮啊！！
+tagline: '我来了！' 
 ---
 {% include JB/setup %}
 

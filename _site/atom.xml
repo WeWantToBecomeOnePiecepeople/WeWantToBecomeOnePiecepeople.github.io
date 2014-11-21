@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>anni baby home</title>
- <link href="http://lian3204321.github.io//atom.xml" rel="self"/>
- <link href="http://lian3204321.github.io"/>
- <updated>2014-11-22T00:20:34+08:00</updated>
- <id>http://lian3204321.github.io</id>
+ <title>我们都是攻城狮</title>
+ <link href="http://WeWantToBecomeOnePiecepeople.github.io//atom.xml" rel="self"/>
+ <link href="http://WeWantToBecomeOnePiecepeople.github.io"/>
+ <updated>2014-11-22T01:28:26+08:00</updated>
+ <id>http://WeWantToBecomeOnePiecepeople.github.io</id>
  <author>
    <name></name>
    <email></email>
@@ -13,10 +13,21 @@
 
  
  <entry>
-   <title>Hello World</title>
-   <link href="http://lian3204321.github.io/c/2014/12/07/hello-world"/>
+   <title>We Have A Dream</title>
+   <link href="http://WeWantToBecomeOnePiecepeople.github.io/life/2014/12/07/we-have-a-dream"/>
    <updated>2014-12-07T00:00:00+08:00</updated>
-   <id>http://lian3204321.github.io/c/2014/12/07/hello-world</id>
+   <id>http://WeWantToBecomeOnePiecepeople.github.io/life/2014/12/07/we-have-a-dream</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/asset/images/7702.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;我是要成为海贼王的攻城狮！&lt;/h3&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hello World</title>
+   <link href="http://WeWantToBecomeOnePiecepeople.github.io/c/2014/12/07/hello-world"/>
+   <updated>2014-12-07T00:00:00+08:00</updated>
+   <id>http://WeWantToBecomeOnePiecepeople.github.io/c/2014/12/07/hello-world</id>
    <content type="html">&lt;h1 id=&quot;study-c&quot;&gt;study C&lt;/h1&gt;
 
 &lt;p&gt;开始学习C&lt;/p&gt;
@@ -25,9 +36,9 @@
  
  <entry>
    <title>I Coming</title>
-   <link href="http://lian3204321.github.io/anything/2014/12/07/I-Coming"/>
+   <link href="http://WeWantToBecomeOnePiecepeople.github.io/anything/2014/12/07/I-Coming"/>
    <updated>2014-12-07T00:00:00+08:00</updated>
-   <id>http://lian3204321.github.io/anything/2014/12/07/I-Coming</id>
+   <id>http://WeWantToBecomeOnePiecepeople.github.io/anything/2014/12/07/I-Coming</id>
    <content type="html">&lt;h1 id=&quot;section&quot;&gt;开始了&lt;/h1&gt;
 &lt;p&gt;怎么看不见
 还是看不见&lt;/p&gt;

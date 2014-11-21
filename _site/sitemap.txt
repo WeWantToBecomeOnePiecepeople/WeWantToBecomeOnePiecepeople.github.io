@@ -1,12 +1,13 @@
 
-http://lian3204321.github.io/archive.html
-http://lian3204321.github.io/atom.xml
-http://lian3204321.github.io/categories.html
-http://lian3204321.github.io/index.html
-http://lian3204321.github.io/pages.html
-http://lian3204321.github.io/rss.xml
-http://lian3204321.github.io/sitemap.txt
-http://lian3204321.github.io/tags.html
+http://WeWantToBecomeOnePiecepeople.github.io/archive.html
+http://WeWantToBecomeOnePiecepeople.github.io/atom.xml
+http://WeWantToBecomeOnePiecepeople.github.io/categories.html
+http://WeWantToBecomeOnePiecepeople.github.io/index.html
+http://WeWantToBecomeOnePiecepeople.github.io/pages.html
+http://WeWantToBecomeOnePiecepeople.github.io/rss.xml
+http://WeWantToBecomeOnePiecepeople.github.io/sitemap.txt
+http://WeWantToBecomeOnePiecepeople.github.io/tags.html
 
-http://lian3204321.github.io/c/2014/12/07/hello-world
-http://lian3204321.github.io/anything/2014/12/07/I-Coming
+http://WeWantToBecomeOnePiecepeople.github.io/life/2014/12/07/we-have-a-dream
+http://WeWantToBecomeOnePiecepeople.github.io/c/2014/12/07/hello-world
+http://WeWantToBecomeOnePiecepeople.github.io/anything/2014/12/07/I-Coming

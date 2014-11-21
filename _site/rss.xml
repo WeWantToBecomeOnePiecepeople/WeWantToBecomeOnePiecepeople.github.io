@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-        <title>anni baby home</title>
-        <description>anni baby home - </description>
-        <link>http://lian3204321.github.io/rss.xml</link>
-        <link>http://lian3204321.github.io</link>
-        <lastBuildDate>2014-11-22T00:20:34+08:00</lastBuildDate>
-        <pubDate>2014-11-22T00:20:34+08:00</pubDate>
+        <title>我们都是攻城狮</title>
+        <description>我们都是攻城狮 - </description>
+        <link>http://WeWantToBecomeOnePiecepeople.github.io/rss.xml</link>
+        <link>http://WeWantToBecomeOnePiecepeople.github.io</link>
+        <lastBuildDate>2014-11-22T01:28:26+08:00</lastBuildDate>
+        <pubDate>2014-11-22T01:28:26+08:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>We Have A Dream</title>
+                <description>&lt;p&gt;&lt;img src=&quot;/asset/images/7702.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;我是要成为海贼王的攻城狮！&lt;/h3&gt;
+</description>
+                <link>http://WeWantToBecomeOnePiecepeople.github.io/life/2014/12/07/we-have-a-dream</link>
+                <guid>http://WeWantToBecomeOnePiecepeople.github.io/life/2014/12/07/we-have-a-dream</guid>
+                <pubDate>2014-12-07T00:00:00+08:00</pubDate>
+        </item>
 
         <item>
                 <title>Hello World</title>
@@ -16,8 +27,8 @@
 
 &lt;p&gt;开始学习C&lt;/p&gt;
 </description>
-                <link>http://lian3204321.github.io/c/2014/12/07/hello-world</link>
-                <guid>http://lian3204321.github.io/c/2014/12/07/hello-world</guid>
+                <link>http://WeWantToBecomeOnePiecepeople.github.io/c/2014/12/07/hello-world</link>
+                <guid>http://WeWantToBecomeOnePiecepeople.github.io/c/2014/12/07/hello-world</guid>
                 <pubDate>2014-12-07T00:00:00+08:00</pubDate>
         </item>
 
@@ -27,8 +38,8 @@
 &lt;p&gt;怎么看不见
 还是看不见&lt;/p&gt;
 </description>
-                <link>http://lian3204321.github.io/anything/2014/12/07/I-Coming</link>
-                <guid>http://lian3204321.github.io/anything/2014/12/07/I-Coming</guid>
+                <link>http://WeWantToBecomeOnePiecepeople.github.io/anything/2014/12/07/I-Coming</link>
+                <guid>http://WeWantToBecomeOnePiecepeople.github.io/anything/2014/12/07/I-Coming</guid>
                 <pubDate>2014-12-07T00:00:00+08:00</pubDate>
         </item>
 
