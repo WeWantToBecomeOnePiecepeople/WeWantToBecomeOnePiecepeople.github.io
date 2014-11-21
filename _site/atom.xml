@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>anni baby home</title>
+ <link href="http://lian3204321.github.io//atom.xml" rel="self"/>
+ <link href="http://lian3204321.github.io"/>
+ <updated>2014-11-21T22:38:39+08:00</updated>
+ <id>http://lian3204321.github.io</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello World</title>
+   <link href="http://lian3204321.github.io/c/2014/12/07/hello-world"/>
+   <updated>2014-12-07T00:00:00+08:00</updated>
+   <id>http://lian3204321.github.io/c/2014/12/07/hello-world</id>
+   <content type="html">&lt;h1 id=&quot;study-c&quot;&gt;study C&lt;/h1&gt;
+
+&lt;p&gt;开始学习C&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I Coming</title>
+   <link href="http://lian3204321.github.io/anything/2014/12/07/I-Coming"/>
+   <updated>2014-12-07T00:00:00+08:00</updated>
+   <id>http://lian3204321.github.io/anything/2014/12/07/I-Coming</id>
+   <content type="html">&lt;h1 id=&quot;section&quot;&gt;开始了&lt;/h1&gt;
+&lt;p&gt;怎么看不见
+还是看不见&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
