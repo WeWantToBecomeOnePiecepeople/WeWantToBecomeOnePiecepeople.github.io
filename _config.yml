@@ -8,12 +8,12 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : anni baby home
+title : 我们都是攻城狮
 tagline: Site 
-author : anni
-name : an
-email : lian3204321@gmail.com
-github : lian3204321
+author : lions
+name : lion
+email : 
+github : WeWantToBecomeOnePiecepeople
 twitter : 
 feedburner : 
 
@@ -25,7 +25,7 @@ feedburner :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://lian3204321.github.io
+production_url : http://WeWantToBecomeOnePiecepeople.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
